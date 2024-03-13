@@ -1,12 +1,80 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+  		"id": 24565,
+  		"title": "My best title",
+  		"description": "Blah blah blah...",
+  		"order": 1,
+  		"created_at": "2023-12-03 16:47",
+  		"updated_at": "2023-12-03 16:47"
+  	},
+  	{
+  		"id": 24566,
+  		"title": "My best title",
+  		"description": "Blah blah blah...",
+  		"order": 2,
+  		"created_at": "2023-12-03 16:47",
+  		"updated_at": "2023-12-03 16:47"
+  	},
+  	{
+  		"id": 24567,
+  		"title": "My best title",
+  		"description": "Blah blah blah...",
+  		"order": 2,
+  		"created_at": "2023-12-03 16:47",
+  		"updated_at": "2023-12-03 16:47"
+  	}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "articles": [
+    {
+  		"id": 2565,
+  		"name": "My best title",
+  		"text": "Blah blah blah...",
+  		"order": 11,
+  		"created_at": "2023-12-03 16:47",
+  		"updated_at": "2023-12-03 16:47"
+  	},
+  	{
+  		"id": 2566,
+  		"name": "My best title",
+  		"text": "Blah blah blah...",
+  		"order": 12,
+  		"date_created": "2023-12-03 16:47",
+  		"date_created": "2023-12-03 16:47"
+  	},
+  	{
+  		"id": 2567,
+  		"name": "My best title",
+  		"text": "Blah blah blah...",
+  		"position": 21,
+  		"date_created": "2023-12-03 16:47",
+  		"date_updated": "2023-12-03 16:47"
+  ],
+  "news": [
+    {
+  		"id": 2455,
+  		"title": "My best title",
+  		"descr": "Blah blah blah...",
+  		"order": 18,
+  		"created": "2023-12-03 16:47",
+  		"updated": "2023-12-03 16:47"
+  	},
+  	{
+  		"id": 2456,
+  		"title": "My best title",
+  		"descr": "Blah blah blah...",
+  		"order": 22,
+  		"created": "2023-12-03 16:47",
+  		"updated": "2023-12-03 16:47"
+  	},
+  	{
+  		"id": 2457,
+  		"title": "My best title",
+  		"descr": "Blah blah blah...",
+  		"order": 28,
+  		"created": "2023-12-03 16:47",
+  		"updated": "2023-12-03 16:47"
+  	}
   ],
   "profile": {
     "name": "typicode"
